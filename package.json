@@ -1,0 +1,18 @@
+{
+  "name": "credit-card-2lvl",
+  "version": "1.0.0",
+  "description": "",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "inputmask": "^5.0.7"
+  },
+  "devDependencies": {
+    "parcel": "^2.8.3"
+  }
+}
